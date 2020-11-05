@@ -1,1 +1,2 @@
 config:
+  info: "master main,cloud-demo-config-center/config-prod.yml version=1"
